@@ -1,0 +1,6 @@
+{
+  "name": "PhoneX",
+  "description": "A modern professional Phone Dialer application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
